@@ -1,0 +1,5 @@
+{"cameras":{"info":{"NameCamera":"צומת רמת ישי","LatitudeCamera":"32.705917","LongitudeCamera":"35.163533","UserLatitude":32.70246932103694,"UserLongitude":35.18568369798641,"ID":"173","CurrentTime":"0:36"}}}
+{"cameras":{"info":{"NameCamera":"צומת רמת ישי","LatitudeCamera":"32.705917","LongitudeCamera":"35.163533","UserLatitude":32.70653384592394,"UserLongitude":35.1677745603814,"ID":"173","CurrentTime":"0:36"}}}
+{"cameras":{"info":{"NameCamera":"צומת השומרים","LatitudeCamera":"32.70965","LongitudeCamera":"35.136017","UserLatitude":32.70653384592394,"UserLongitude":35.1677745603814,"ID":"139","CurrentTime":"0:36"}}}
+{"cameras":{"info":{"NameCamera":"צומת השומרים","LatitudeCamera":"32.70965","LongitudeCamera":"35.136017","UserLatitude":32.708765580768144,"UserLongitude":35.15349334913036,"ID":"139","CurrentTime":"0:37"}}}
+{"cameras":{"info":{"NameCamera":"צומת השומרים","LatitudeCamera":"32.70965","LongitudeCamera":"35.136017","UserLatitude":32.708762820523994,"UserLongitude":35.14615457365943,"ID":"139","CurrentTime":"0:37"}}}
